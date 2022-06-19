@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Call Center Dashboard
 
-You can use the [editor on GitHub](https://github.com/ajsmothermon/call_center_dashboard/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This dashboard is an example of a call center's performance. Below outlines the context for why a dashboard was needed, the user stories mapped to the KPIs, and the process for arriving at the dashboard. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**PLEASE NOTE:** ALL DATA IN THIS DASHBOARD IS FAKE AND WAS CREATED BY THE AUTHOR (ANDREW SMOTHERMON). THIS IN NO WAY DESCRIBES, OR RELATES TO, ANY PAST OR CURRENT CLIENT INFORMATION
 
-### Markdown
+### Background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+McGyver Inc. is a hardware manufacturing company that sells widgets across the state of Nebraska. 
 
 ```markdown
 Syntax highlighted code block
