@@ -17,37 +17,32 @@ Call center data is basic but **they do catalog every customer service call and 
 
 ### User Stories and KPIs
 
-After consultation with Fox-Smothermon Consulting LLC., McGyver Inc. leadership has tailored a **Problem Statement** along with user stories and KPIs that could help them better understand call center operations and what is driving poor customer service. 
+After consultation and data exploration with Fox-Smothermon Consulting LLC., McGyver Inc. leadership has tailored a **Problem Statement** along with **User Stories** and **KPIs** that could help them better understand call center operations and what is driving poor customer service. 
+
+#### Audience/Users of Report
+Executive Leadership of McGyver Inc. 
 
 #### Problem Statement
 
-McGyver Inc. leadership currently has no insight into call center operations. Reporting is required to better understand what regions/divisions are receiving poor customer service survey ratings 
+McGyver Inc. leadership currently has no insight into call center operations. Reporting is required to better understand what regions/divisions are receiving poor customer service survey ratings, if there is anything driving low ratings, and if customer service is improving or getting worse
+
+#### User Stories and KPIs
+
+**User Story:** I need to see what regions/divisions have poor customer service ratings, so I know which supervisors need to talk with staff about performance
+* KPI: Avg. Survey Rating by Region 
+* KPI: Avg. Survey Rating by Division
+
+**User Story:** I need to see if there are any drivers to the low-ratings so that I can inform future customer service trainings 
+* KPI: Avg. Survey Rating by Avg. Length of Call per Employee (Exploration-derived insight)
+* KPI: Avg. Survey Rating by widget type
+
+**User Story:** I need to know if customer service is improving or getting worse so I know if different interventions are working
+* KPI: Avg. Survey Rating by Region/Division over Time
+
+### McGyver Inc. System Architecture
 
 
-```markdown
-Syntax highlighted code block
+### Outcomes of Report Analysis
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ajsmothermon/call_center_dashboard/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Ending Notes
+This concludes the call center dashboard example. 
