@@ -41,8 +41,5 @@ McGyver Inc. leadership currently has no insight into call center operations. Re
 
 ### McGyver Inc. System Architecture
 
-
-### Outcomes of Report Analysis
-
-## Ending Notes
-This concludes the call center dashboard example. 
+* **Back End:** Relational Database
+* **Front End:** Tableau/Tableau Server
